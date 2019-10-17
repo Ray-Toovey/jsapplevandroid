@@ -1,0 +1,47 @@
+body {
+    background-color:  #cabfb6;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main {
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    padding: 20px 100px 50px;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif; 
+}
+
+.explore {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+a {
+    color: black;
+    background-color: #c9793b;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+a:hover {
+    border: 1px solid black;
+}
+
+button {
+    padding: 5px 30px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.android-btn {
+    background-color: #a4c93b;
+}
+
+.apple-btn {
+    background-color: #b6bcca;
+}
